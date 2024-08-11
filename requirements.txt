@@ -1,0 +1,9 @@
+mysql-connector-python
+matplotlib
+sympy
+speechrecognition
+pyaudio
+requests
+numpy
+scipy
+googletrans==4.0.0-rc1

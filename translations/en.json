@@ -1,0 +1,14 @@
+{
+    "title": "Advanced Calculator",
+    "buttons": {
+        "history": "History",
+        "plot": "Plot",
+        "scientific": "Scientific",
+        "unit_convert": "Unit Convert",
+        "financial": "Financial",
+        "matrix": "Matrix",
+        "solve": "Solve",
+        "voice": "Voice",
+        "export_history": "Export History"
+    }
+}

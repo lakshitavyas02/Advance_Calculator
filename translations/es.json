@@ -1,0 +1,14 @@
+{
+    "title": "Calculadora Avanzada",
+    "buttons": {
+        "history": "Historial",
+        "plot": "Graficar",
+        "scientific": "Científico",
+        "unit_convert": "Conversión de Unidades",
+        "financial": "Financiero",
+        "matrix": "Matriz",
+        "solve": "Resolver",
+        "voice": "Voz",
+        "export_history": "Exportar Historial"
+    }
+}
